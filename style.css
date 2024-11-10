@@ -1,0 +1,69 @@
+.row{ 
+    width: 100%;
+    height: 400px;
+}
+.colleft{
+    float:left;
+    width: 60%;
+    height: 300px;
+    background-color: aqua;
+    margin-right: 20px;
+}
+.img{
+    float: left;
+    width: 60%;
+    height: 300px;
+    
+}
+.colright{
+    float:left;
+    width: 60%;
+    height: 300px;
+    background-color: aqua;
+    margin-right: 20px
+}
+.hi{
+    font: size 36px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.btn{
+    display: inline-block;
+    line-height: 28px;
+    color:black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: royalblue;
+    color: #333;
+}
+.row1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 350px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.col1{
+    float: left;
+    width: 30%;
+    height: 300px;
+    margin-right: 15px;
+}
+.col2{
+    float: left;
+    width: 30%;
+    height: 300px;
+    margin-right: 15px;
+}
+.col3{
+    float: left;
+    width: 30%;
+    height: 300px;
+    margin-right: 15px;
+}
+
+
+
